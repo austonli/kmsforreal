@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-09-17T19:28:06-04:00</updated><id>http://localhost:4000/</id><title type="html">My personal page for test</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</subtitle><entry><title type="html">My very first post with TABLE of CONTENTS</title><link href="http://localhost:4000/personal/2017/09/17/welcome-to-jekyll.html" rel="alternate" type="text/html" title="My very first post with TABLE of CONTENTS" /><published>2017-09-17T17:19:51-04:00</published><updated>2017-09-17T17:19:51-04:00</updated><id>http://localhost:4000/personal/2017/09/17/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/personal/2017/09/17/welcome-to-jekyll.html">&lt;p&gt;Here is a table of contents describing me.&lt;/p&gt;
+&lt;div id=&quot;toc_container&quot;&gt;
+&lt;p class=&quot;toc_title&quot;&gt;Contents&lt;/p&gt;
+  &lt;li&gt;1 My basic Info&amp;lt;/a&amp;gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;eagerassassin.github.io/Video/&quot;&gt;1.1 Videos I like 1&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;eagerassassin.github.io/personal/2017/09/17/Photos.html&quot;&gt;1.2 Photos of me 2&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#Second_Point_Header&quot;&gt;2 My LinkedIn Link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://cornellcuprobotics.com&quot;&gt;3 The club I am in: Cornell Cup Robotics&lt;/a&gt;&lt;/li&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Here is a table of contents describing me. Contents 1 My basic Info&amp;lt;/a&amp;gt; 1.1 Videos I like 1 1.2 Photos of me 2 2 My LinkedIn Link 3 The club I am in: Cornell Cup Robotics</summary></entry><entry><title type="html">My Photo</title><link href="http://localhost:4000/personal/2017/09/17/Photos.html" rel="alternate" type="text/html" title="My Photo" /><published>2017-09-17T17:19:51-04:00</published><updated>2017-09-17T17:19:51-04:00</updated><id>http://localhost:4000/personal/2017/09/17/Photos</id><content type="html" xml:base="http://localhost:4000/personal/2017/09/17/Photos.html">&lt;p&gt;Here are some photos of myself.&lt;/p&gt;
+&lt;h2&gt;Me in the Snow&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/17309713_422114938131810_6984000930786200716_n.jpg?oh=19bc098c112be9b9b0f9ccf9641e61e7&amp;amp;oe=5A436107&quot; alt=&quot;Me in the Snow&quot; style=&quot;width:800px;height:430px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And this one is taken in National Supercomputing Center in Wuxi.
+The fastest Supercomputer in the world.&lt;/p&gt;
+&lt;h2&gt;Supercomputing Center&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/16105708_395812784095359_159181757678584505_n.jpg?oh=e47de3703afa0993c685399db559c76c&amp;amp;oe=5A462BDE&quot; alt=&quot;Me in the Snow&quot; style=&quot;width:587px;height:783px;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Here are some photos of myself. Me in the Snow</summary></entry><entry><title type="html">My LinkedIn</title><link href="http://localhost:4000/personal/2017/09/17/LinkedIn.html" rel="alternate" type="text/html" title="My LinkedIn" /><published>2017-09-17T17:19:51-04:00</published><updated>2017-09-17T17:19:51-04:00</updated><id>http://localhost:4000/personal/2017/09/17/LinkedIn</id><content type="html" xml:base="http://localhost:4000/personal/2017/09/17/LinkedIn.html">&lt;p&gt;Here is my information on LinkedIn.&lt;/p&gt;
+
+&lt;h2&gt;LinkedIn&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAe6AAAAJDI3Njc2MDA2LWU5NmYtNGZhMC1hMjJkLTdhODhhZDQzODA3Yg.jpg&quot; alt=&quot;Photo on LinkedIn&quot; style=&quot;width:300px;height:300px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Click &lt;a href=&quot;https://www.linkedin.com/in/rong-tan-b2a263119&quot;&gt;here&lt;/a&gt; to go to my LinkedIn page.&lt;/p&gt;</content><author><name></name></author><summary type="html">Here is my information on LinkedIn.</summary></entry></feed>
