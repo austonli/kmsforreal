@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "My Photo"
+date:   2017-09-17 17:19:51 -0400
+categories: personal
+---
+
+Here are some photos of myself.
+<h2>Me in the Snow</h2>
+<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/17309713_422114938131810_6984000930786200716_n.jpg?oh=19bc098c112be9b9b0f9ccf9641e61e7&oe=5A436107" alt="Me in the Snow" style="width:800px;height:430px;">
+
+And this one is taken in National Supercomputing Center in Wuxi.
+The fastest Supercomputer in the world.
+<h2>Supercomputing Center</h2>
+<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/16105708_395812784095359_159181757678584505_n.jpg?oh=e47de3703afa0993c685399db559c76c&oe=5A462BDE" alt="Me in the Snow" style="width:587px;height:783px;">
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
