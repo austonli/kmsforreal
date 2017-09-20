@@ -24,8 +24,7 @@ github_username:  eagerassassin
 
 # Build settings
 markdown: kramdown
-#theme: minima
-theme: jekyll-theme-hacker
+theme: minimal
 plugins:
   - jekyll-feed
 
